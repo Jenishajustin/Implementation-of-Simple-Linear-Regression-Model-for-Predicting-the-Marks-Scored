@@ -97,7 +97,7 @@ print('RMSE = ',rmse)
 
 ![Screenshot 2024-02-25 093401](https://github.com/Jenishajustin/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405070/f1959b3b-14e1-4ca3-8950-9d5ea26237b6)
 
-#### Errors
+#### Error Calculation
 ![Screenshot 2024-02-25 093422](https://github.com/Jenishajustin/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405070/632fd059-c12c-4334-bb61-ead830563d14)
 
 ## Result:
